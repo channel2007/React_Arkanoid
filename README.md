@@ -11,6 +11,10 @@
   * npm install --save react-howler
   * npm install react-device-detect --save
 
+# 使用網路資源
+* [美術-The Spriters Resource-1](https://www.spriters-resource.com/nes/arkanoid/sheet/50897/)
+* [美術-The Spriters Resource-2](https://www.spriters-resource.com/nes/arkanoid/sheet/65893/)
+* [美術-The Spriters Resource-3](https://www.spriters-resource.com/nes/arkanoid2/sheet/65891/)
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
