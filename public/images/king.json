@@ -1,0 +1,48 @@
+{"frames": {
+
+"king_1_1.png":
+{
+	"frame": {"x":0,"y":0,"w":248,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":384},
+	"sourceSize": {"w":248,"h":384}
+},
+"king_1_2.png":
+{
+	"frame": {"x":0,"y":384,"w":248,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":384},
+	"sourceSize": {"w":248,"h":384}
+},
+"king_2_1.png":
+{
+	"frame": {"x":0,"y":768,"w":248,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":384},
+	"sourceSize": {"w":248,"h":384}
+},
+"king_2_2.png":
+{
+	"frame": {"x":0,"y":1152,"w":248,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":384},
+	"sourceSize": {"w":248,"h":384}
+}},
+"animations": {
+	"king_1": ["king_1_1.png","king_1_2.png"],
+	"king_2": ["king_2_1.png","king_2_2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "king.png",
+	"format": "RGBA8888",
+	"size": {"w":248,"h":1536},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:361ef3dd2075bef4d7345e8f7f817b44:108be97b888bc869cf880ea79c6b550e:b87ab59cb13ddb41e4ee765df637d99d$"
+}
+}
