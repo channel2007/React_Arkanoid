@@ -44,5 +44,8 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 * 敵人
 * 支援手機、平板輸入控制
 
+# 版權宣告
+* 僅供個人學術研究使用，請勿使用在商業用途上
+
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
