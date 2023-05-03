@@ -1,3 +1,7 @@
+# 遊戲影片
+<a href="https://youtu.be/MrzM8fdGfKw" target="_blank"><img src="https://github.com/channel2007/React_SpaceInvaders/blob/master/public/images/screen_1.jpg" 
+alt="播放影片" width="640" height="480" border="10" /></a>
+
 # 前言
 重製懷舊遊戲系列-紅白機打磚塊
 
@@ -21,6 +25,8 @@
 * [美術-The Spriters Resource-3](https://www.spriters-resource.com/nes/arkanoid2/sheet/65891/)
 * [音效-Video Game Music-1](https://downloads.khinsider.com/game-soundtracks/album/arkanoid-nes)
 
+# 架構與物件說明
+![alt architecture](https://github.com/channel2007/React_Arkanoid/blob/master/image/architecture.jpg "architecture")
 
 # 未實作功能
 * 片頭選單
