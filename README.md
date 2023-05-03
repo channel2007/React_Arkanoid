@@ -7,13 +7,17 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 
 # 建立專案
 * 安裝完Node.js後開啟Node.js command prompt進入命令模式，輸入以下指令建立專案：
-  * npx create-react-app arkanoid_pixi --template typescript
-  * cd arkanoid_pixi
-  * npm install pixi.js@6.5.0
-  * npm install pixi-stats@1.0.7 --save
-  * npm install --save @types/howler
-  * npm install --save react-howler
-  * npm install react-device-detect --save
+ * npx create-react-app arkanoid_pixi --template typescript
+ * cd arkanoid_pixi
+ * npm install pixi.js@6.5.0
+ * npm install pixi-stats@1.0.7 --save
+ * npm install --save @types/howler
+ * npm install --save react-howler
+ * npm install react-device-detect --save
+ 
+* 覆蓋檔案
+ * 下載此專案解壓縮後覆蓋arkanoid_pixi目錄
+
 
 # 安裝軟體
 * [Node.js](https://nodejs.org/en)
