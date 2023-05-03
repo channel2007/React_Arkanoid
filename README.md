@@ -31,6 +31,13 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 # 架構與物件說明
 ![alt architecture](https://github.com/channel2007/React_Arkanoid/blob/master/image/architecture.jpg "architecture")
 
+# 功能按鍵
+* F鍵：FPS開關
+* D鍵：除錯模式開關
+* S鍵：音效開關
+* R鍵：自爆
+* A鍵：自動玩開關
+
 # 未實作功能
 * 片頭選單
 * 特殊道具
