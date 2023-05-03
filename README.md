@@ -15,8 +15,8 @@ alt="播放影片" width="640" height="480" border="10" /></a>
  * npm install --save react-howler
  * npm install react-device-detect --save
  
-* 覆蓋檔案
- * 下載此專案解壓縮後覆蓋arkanoid_pixi目錄
+ * 覆蓋檔案
+  * 下載此專案解壓縮後覆蓋arkanoid_pixi目錄
 
 
 # 安裝軟體
