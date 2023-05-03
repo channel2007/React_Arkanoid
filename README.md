@@ -18,7 +18,6 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 * 覆蓋檔案
   * 下載此專案解壓縮後覆蓋arkanoid_pixi目錄
 
-
 # 安裝軟體
 * [Node.js](https://nodejs.org/en)
 * [Visual Studio Code](https://code.visualstudio.com/)
