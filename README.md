@@ -6,7 +6,7 @@ alt="播放影片" width="640" height="480" border="10" /></a>
 重製懷舊遊戲系列-紅白機打磚塊
 
 # 建立專案
-* 安裝完Node.js後開啟Node.js command prompt進入命令模式，輸入以下指令建立專案：
+* 安裝完Node.js後開啟Node.js command prompt進入命令模式，輸入以下指令建立arkanoid_pixi專案：
   * npx create-react-app arkanoid_pixi --template typescript
   * cd arkanoid_pixi
   * npm install pixi.js@6.5.0
